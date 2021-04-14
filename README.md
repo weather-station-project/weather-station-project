@@ -5,7 +5,7 @@ Have a look at the group of repositories on this [link](https://github.com/weath
 
 
 ## ARQ Overview
-![Weather Station - Overview](https://user-images.githubusercontent.com/33702675/113586101-6230eb80-962d-11eb-9e2a-cedeede827e2.jpeg)
+![Weather Station - Overview](https://github.com/weather-station-project/weather-station-project/blob/26aa5f1b4c3e9112c5684e99dd745ebaa4ab4065/Overview.jpeg)
 
 
 ## Donation
