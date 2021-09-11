@@ -1,5 +1,5 @@
 # Weather Station Project
-It is a set of "Dockerized" applications to take weather measurements from the environment, store them in a database and visualize them on Website. It offers also the possibility of gathering the data through an API.
+It is a set of Dockerized applications to take weather measurements from the environment, store them in a database and visualize them on Website. It offers also the possibility of gathering the data through an API.
 
 Have a look at the group of repositories on this [link](https://github.com/weather-station-project)!
 
